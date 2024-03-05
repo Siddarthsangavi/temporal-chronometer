@@ -1,7 +1,7 @@
 # Project Title
 ## temporal-chronometer
 
-(Watch it here)[https://javascript-project-siddarth.netlify.app/]
+[Watch it here](https://javascript-project-siddarth.netlify.app/)
 
 ## A brief description of what this project does.
 
